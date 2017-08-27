@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-mosca",
+  "version": "0.0.0",
+  "description": "NodejsMosca",
+  "main": "app.js",
+  "author": {
+    "name": "Mark Shavlik"
+  }, "dependencies": {"mosca": "^2.5.2", "pino": "^4.7.1"}
+}
